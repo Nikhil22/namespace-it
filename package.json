@@ -1,0 +1,17 @@
+{
+  "name": "namespacer",
+  "version": "1.0.0",
+  "description": "Wrap any block of code in a namespace of your choice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Bhaskar",
+  "license": "ISC",
+  "dependencies": {
+    "esprima": "3.1.3"
+  },
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
