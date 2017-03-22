@@ -4,7 +4,7 @@
 Grab the scope variables of a function or a file.
 
 <p>
-  <img src="images/full-workflow.png">
+  <img src="https://github.com/Nikhil22/namespace-it/blob/master/images/full-workflow.png">
 </p>
 
 ## Usage - Step by Step
