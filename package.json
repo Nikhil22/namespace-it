@@ -1,5 +1,5 @@
 {
-  "name": "namespacer",
+  "name": "namespaceit",
   "version": "1.0.0",
   "description": "Wrap any block of code in a namespace of your choice",
   "main": "index.js",
