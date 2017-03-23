@@ -13,7 +13,7 @@ Grab the scope variables of a function or a file.
 const NamespaceIt = require('namespaceit');
 ```
 
-### Pick any function in your code block
+### Pick any function in your code block. For example...
 ```javascript
 function someFunction() {
   const number = 1;
